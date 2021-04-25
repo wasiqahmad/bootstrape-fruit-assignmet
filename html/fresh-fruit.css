@@ -1,0 +1,80 @@
+
+
+
+/* nav */
+form{
+    list-style: none !important;
+    padding-right: 100px !important;
+}
+.nav1{
+    padding: 0 20px !important;
+}
+#span{
+    padding-left: 100px;
+}
+a{
+    color: black !important;
+}
+#icon{
+    color: green !important;
+}
+.background{
+    background-color:rgb(240, 236, 236);
+    /* position: fixed !important; */
+}
+.input{
+    margin: 10px 100px;
+    padding-left:40px;
+border-radius: 50px;
+font-size: 27px;
+border-style: none;
+}
+.input1{
+    float: right;
+    font-size: 25px;
+    border-radius: 50px;
+    border-style: none;
+    margin-right: 70px;
+    margin-top: 10px;
+    padding-left: 50px;
+    width: 230px;
+}
+.button1{
+    border-radius: 50px;
+background-color:green;
+border-style: hidden;
+
+}
+#id3{
+ color: white !important;
+
+}
+
+#nav2{
+font-size: 15px;
+font-weight: 500;
+    margin-left: 200px;
+    padding-top: 50px;
+}
+#id2{
+    text-transform: uppercase;
+padding-left: 15px;
+}
+img{
+    position:absolute;
+    /* margin-top: 20px !important; */
+    /* text-align: center !important; */
+    width: 120px;
+    padding-top: 10px;
+    /* margin: auto; */
+    margin-left: 80px !important;
+    /* margin-bottom: 50px; */
+    /* background-color:rgb(240, 236, 236); */
+
+}
+
+
+
+
+
+/* nav */
